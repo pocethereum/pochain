@@ -1,0 +1,16 @@
+<root>
+    <specVersion>1.0.0</specVersion>
+    <URLBase></URLBase>
+    <device>
+        <deviceType>poc:minner</deviceType>
+        <manufacturer>Poc Lab</manufacturer>
+        <manufacturerURL></manufacturerURL>
+        <modelDescription></modelDescription>
+        <modelName></modelName>
+        <modelNumber></modelNumber>
+        <modelURL></modelURL>
+        <serialNumber></serialNumber>
+        <bindUser></bindUser>
+        <bindUserHash></bindUserHash>
+    </device>
+</root>

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+pkill dlv; pkill poc;sleep 1;  pkill -9 dlv; pkill -9 poc; echo "kill done"
